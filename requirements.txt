@@ -1,0 +1,23 @@
+# Core dependencies
+pandas==2.1.4
+python-dateutil==2.8.2
+six==1.16.0
+
+# Database
+pyodbc==4.0.39
+SQLAlchemy==2.0.25
+
+# API clients
+requests==2.31.0
+tweepy==4.14.0
+newsapi-python==0.2.7
+cryptocompare==0.7.6
+
+# Text analysis
+vaderSentiment==3.3.2
+
+# Windows service
+pywin32==306
+
+# Scheduling
+schedule==1.2.1
